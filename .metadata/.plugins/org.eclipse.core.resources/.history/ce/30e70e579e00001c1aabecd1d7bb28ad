@@ -1,0 +1,13 @@
+/*
+ * lcdIli9341Config.h
+ *
+ *  Created on: Aug 19, 2021
+ *      Author: CVH
+ */
+
+#ifndef INC_LCDILI9341CONFIG_H_
+#define INC_LCDILI9341CONFIG_H_
+
+
+
+#endif /* INC_LCDILI9341CONFIG_H_ */
